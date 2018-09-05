@@ -1,0 +1,18 @@
+Gerard Gosk 10 2 gerard.gosk@gmail.com 34534543545 123432534 Mickiewicza 4
+
+Adam Mickiewicz 10 2 artura@gmail.com 74575465465 364346453    Slowackiego 5a
+
+Aleksander Nowak 5 nowak2@gmail.com 52152352353 214421321    Mickiewicza 15
+
+Jan Nowak 8 nowak@gmail.com 47754645656 643543554    Nowaka 5a
+
+Oskar Bogdan 1 oskar@gmail.com 34645323423 364346345    Aleksandra 2
+
+Maciek Bogdan 1 bogdan@gmail.com 34634436334 643543345    Slowackiego 15
+
+Marcin Nowak 5 nowak3@gmail.com 12454365434 436746456    Mickiewicza 15
+
+Magdalena Pozdro 1 mordziaty@gmail.com 34646323923 364346345    Aleksandra 2
+
+Julia Fikolek 1 fikola2@gmail.com 34694436334 646343345    Slowackiego 15
+

@@ -1,0 +1,95 @@
+# depslib dependency file v1.0
+1515969901 source:c:\users\bomba\desktop\studyja\programy\projekt nr 1 gerard gosk\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"List_Actions.h"
+	"Student_Actions.h"
+
+1516206333 source:c:\users\bomba\desktop\studyja\programy\projekt nr 1 gerard gosk\list_actions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"List_Actions.h"
+
+1516205981 source:c:\users\bomba\desktop\studyja\programy\projekt nr 1 gerard gosk\control.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Control.h"
+	"List_Actions.h"
+
+1515972891 c:\users\bomba\desktop\studyja\programy\projekt nr 1 gerard gosk\control.h
+	"List_Actions.h"
+
+1515971007 c:\users\bomba\desktop\studyja\programy\projekt nr 1 gerard gosk\list_actions.h
+
+1516205646 source:c:\users\bomba\desktop\studyja\programy\projekt nr 1 gerard gosk\course_actions.c
+	<stdio.h>
+	<stdlib.h>
+	"Course_Actions.h"
+	<math.h>
+
+1515702274 c:\users\bomba\desktop\studyja\programy\projekt nr 1 gerard gosk\course_actions.h
+	"List_Actions.h"
+
+1515710414 c:\users\bomba\desktop\studyja\programy\projekt nr 1 gerard gosk\student_actions.h
+	"List_Actions.h"
+
+1516211524 source:c:\users\bomba\desktop\studyja\programy\projekt nr 1 gerard gosk\student_actions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Student_Actions.h"
+	"List_Actions.h"
+
+1516209581 source:c:\users\bomba\desktop\studyja\semestr 1\programy\projekt nr 1 gerard gosk\control.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Control.h"
+	"List_Actions.h"
+
+1515976491 c:\users\bomba\desktop\studyja\semestr 1\programy\projekt nr 1 gerard gosk\control.h
+	"List_Actions.h"
+
+1515974607 c:\users\bomba\desktop\studyja\semestr 1\programy\projekt nr 1 gerard gosk\list_actions.h
+
+1516209246 source:c:\users\bomba\desktop\studyja\semestr 1\programy\projekt nr 1 gerard gosk\course_actions.c
+	<stdio.h>
+	<stdlib.h>
+	"Course_Actions.h"
+	<math.h>
+
+1515705874 c:\users\bomba\desktop\studyja\semestr 1\programy\projekt nr 1 gerard gosk\course_actions.h
+	"List_Actions.h"
+
+1516209933 source:c:\users\bomba\desktop\studyja\semestr 1\programy\projekt nr 1 gerard gosk\list_actions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"List_Actions.h"
+
+1515973501 source:c:\users\bomba\desktop\studyja\semestr 1\programy\projekt nr 1 gerard gosk\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"List_Actions.h"
+	"Student_Actions.h"
+
+1515714014 c:\users\bomba\desktop\studyja\semestr 1\programy\projekt nr 1 gerard gosk\student_actions.h
+	"List_Actions.h"
+
+1516215124 source:c:\users\bomba\desktop\studyja\semestr 1\programy\projekt nr 1 gerard gosk\student_actions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Student_Actions.h"
+	"List_Actions.h"
+

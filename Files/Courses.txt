@@ -1,0 +1,15 @@
+4 76 14999 Kurs programowania aplikacji mobilnych
+Kurs uczacy podstaw programowania aplikacji mobilnych
+
+1 15 9650 Kurs programowania w Jezyku C
+Nauczy sie Pan podstaw programowania w Jezyku C
+
+2 119 3400 Kurs Jezyka Angielskiego
+Kurs jezyka angielskiego na poziome zaawansowanym, kurs konczy sie testem!
+
+6 10 3000 Kurs budowy silnika
+Po kursie bedzie Pan znal podstawowe wyrazenia dotyczace silnika i bedzie umial zlozyc wlasny silnik!
+
+5 30 1200 Nauka jazdy Samochodem
+Nauczy sie Pan jezdzic samochodem i uzyska prawo jazdy
+
